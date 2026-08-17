@@ -2,6 +2,8 @@
 
 <div align="center">
 
+[![Lapras](https://img.pokemondb.net/sprites/black-white/anim/normal/lapras.gif)](https://pokemondb.net/pokedex/lapras)
+
 <h3 align="center">プログラミングは人生だ</h3>
 
 <br>
@@ -24,6 +26,3 @@
 </a>
 
 </div>
-
-
-
