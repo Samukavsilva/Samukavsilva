@@ -11,7 +11,7 @@
 
 
 ![Static Badge](https://img.shields.io/badge/Instagram-31479C?style=for-the-badge&logo=Instagram&link=https%3A%2F%2Fwww.instagram.com%2Fsamukavsilva_%2F)
-![Static Badge](https://img.shields.io/badge/Gmail-31479C?style=for-the-badge&logo=Gmail&logoColor=f5f5f5&link=https%3A%2F%2Fwww.instagram.com%2Fsamukavsilva_%2F)
+![Static Badge](https://img.shields.io/badge/Gmail-1e3bc9?style=for-the-badge&logo=Gmail&logoColor=ffffff&link=Vieirasilvasamuel0%40gmail.com)
 ![Static Badge](https://img.shields.io/badge/Discord-31479C?style=for-the-badge&logo=Discord&logoColor=f5f5f5&link=https%3A%2F%2Fwww.instagram.com%2Fsamukavsilva_%2F)
 ![Static Badge](https://img.shields.io/badge/Github-31479C?style=for-the-badge&logo=Github&logoColor=f5f5f5&link=https%3A%2F%2Fwww.instagram.com%2Fsamukavsilva_%2F)
 
