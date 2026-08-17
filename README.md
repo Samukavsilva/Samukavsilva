@@ -1,16 +1,20 @@
-## Hi there 👋
+![Capsule Render](https://capsule-render.vercel.app/api?type=waving&height=150&color=123499)
 
-<!--
-**Samukavsilva/Samukavsilva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3 align="center">プログラミングは人生だ&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</h3>
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=23&pause=1000&color=1B5BD4&background=231EFF00&width=435&lines=Ol%C3%A1+%2C+meu+nome+%C3%A9+Samuel" alt="Typing SVG" />
+  </a>
+</div>
+
+
+![Static Badge](https://img.shields.io/badge/Instagram-31479C?style=for-the-badge&logo=Instagram&link=https%3A%2F%2Fwww.instagram.com%2Fsamukavsilva_%2F)
+![Static Badge](https://img.shields.io/badge/Gmail-31479C?style=for-the-badge&logo=Gmail&logoColor=f5f5f5&link=https%3A%2F%2Fwww.instagram.com%2Fsamukavsilva_%2F)
+![Static Badge](https://img.shields.io/badge/Discord-31479C?style=for-the-badge&logo=Discord&logoColor=f5f5f5&link=https%3A%2F%2Fwww.instagram.com%2Fsamukavsilva_%2F)
+![Static Badge](https://img.shields.io/badge/Github-31479C?style=for-the-badge&logo=Github&logoColor=f5f5f5&link=https%3A%2F%2Fwww.instagram.com%2Fsamukavsilva_%2F)
+
+
+
+
