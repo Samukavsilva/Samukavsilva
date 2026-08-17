@@ -12,6 +12,18 @@
 
 <br><br>
 
+<!-- Linguagens e Tecnologias (TechIcons / Devicon) -->
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="45" height="45" />
+&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" alt="C#" width="45" height="45" />
+&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="45" height="45" />
+&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="NodeJS" width="45" height="45" />
+
+<br><br>
+
+<!-- Contatos -->
 <a href="https://www.instagram.com/samukavsilva_/" target="_blank">
   <img src="https://img.shields.io/badge/Instagram-31479C?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram" />
 </a>
